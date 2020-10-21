@@ -1,0 +1,58 @@
+h2 {color: #2d6187}
+h1 {color: #2d6187 bold}
+h1 {font-size: 32px}
+
+h1,h2 {font-family:courrier}
+h1,h2 {text-justify : center;}
+
+
+
+body {background: #555555}
+body {font-family: arial}
+
+p {text-justify: center;}
+
+a{text-decoration: none;}
+a{{color: #0000}}
+a{font-weight: bold;}
+
+div {background: white}
+div {padding: 30px}
+div {margin: 80px}
+div {box-shadow: 0px 10px 10px} 
+div {border-radius: 10px}
+div style {width: 700px}
+div style {margin: 10px auto}
+
+div{text-justify : center;}
+
+body {text-justify: center;}
+a{text-justify: center;}
+
+#profile {width: 150px}
+.img-cercle{ border-radius: 70% }
+
+h1/h2 {class: text-justify;}
+
+.card-white {text-align: center;}
+
+.btn-white{ background-color :white  
+	color: white 
+	padding: 10px 10px;
+    border-radius:10px 
+    font-size 150px
+    margin-bottom 40px }
+
+	.list-inline {list-style: none;
+		padding-left: 0px}
+
+	.list-inline li { display: inline; padding: 40px }
+
+	.list-inline i { font-size: 70px }
+
+	.list-inline i hover {font-size: 70px color yellow}
+
+	#introduction p {margin-bottom: 40px}
+
+	
+	
