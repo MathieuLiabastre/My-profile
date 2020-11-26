@@ -36,12 +36,12 @@ h1/h2 {class: text-justify;}
 
 .card-white {text-align: center;}
 
-.btn-white{ background-color :white  
-	color: white 
+.btn-white{ background-color: #2d6187;  
+	color: white;
 	padding: 10px 10px;
-    border-radius:10px 
-    font-size 150px
-    margin-bottom 40px }
+    border-radius:10px;
+    font-size: 15px;
+    margin-bottom: 40px;}
 
 	.list-inline {list-style: none;
 		padding-left: 0px}
@@ -53,6 +53,9 @@ h1/h2 {class: text-justify;}
 	.list-inline i hover {font-size: 70px color yellow}
 
 	#introduction p {margin-bottom: 40px}
+
+	
+	
 
 	
 	
